@@ -15,6 +15,7 @@ class SourceActivity : AppCompatActivity() {
     super.onCreate(savedInstanceState)
     setContentView(R.layout.empty_layout)
 
+    // MyLocationListener 观察者
     lifecycle.addObserver(MyLocationListener())
   }
 
