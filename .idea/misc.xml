@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EclipseCodeFormatterProjectSettings">
+    <option name="projectSpecificProfile">
+      <ProjectSpecificProfile>
+        <option name="formatter" value="ECLIPSE" />
+        <option name="importOrderConfigFilePath" value="$USER_HOME$/develop/eclipse_formatter/import_order.importorder" />
+        <option name="importOrderFromFile" value="true" />
+        <option name="pathToConfigFileJava" value="$USER_HOME$/develop/eclipse_formatter/AndroidCodeStyle.xml" />
+        <option name="selectedJavaProfile" value="Android Code Style" />
+      </ProjectSpecificProfile>
+    </option>
+  </component>
+  <component name="KotlinCodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+</project>
