@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="EclipseCodeFormatterProjectSettings">
     <option name="projectSpecificProfile">
       <ProjectSpecificProfile>
         <option name="formatter" value="ECLIPSE" />
-        <option name="importOrderConfigFilePath" value="$PROJECT_DIR$/../../../eclipse_formatter/import_order.importorder" />
+        <option name="importOrderConfigFilePath" value="$USER_HOME$/eclipse_formatter/import_order.importorder" />
         <option name="importOrderFromFile" value="true" />
-        <option name="pathToConfigFileJava" value="$PROJECT_DIR$/../../../eclipse_formatter/AndroidCodeStyle.xml" />
+        <option name="pathToConfigFileJava" value="$USER_HOME$/eclipse_formatter/AndroidCodeStyle.xml" />
         <option name="selectedJavaProfile" value="Android Code Style" />
       </ProjectSpecificProfile>
     </option>
@@ -18,7 +17,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="jbr-21" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
